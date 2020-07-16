@@ -6,6 +6,7 @@ import StreamEdit from "./streams/StreamEdit";
 import StreamDelete from "./streams/StreamDelete";
 import StreamList from "./streams/StreamList";
 import StreamShow from "./streams/StreamShow";
+import My404Component from "./streams/My404Component";
 import Header from "./Header";
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
           <Route path="/streams/edit" exact component={StreamEdit} />
           <Route path="/streams/delete" exact component={StreamDelete} />
           <Route path="/streams/show" exact component={StreamShow} />
+          <Route path="*" exact={true} component={My404Component} />
         </Switch>
       </BrowserRouter>
     </div>
