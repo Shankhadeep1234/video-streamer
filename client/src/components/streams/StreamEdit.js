@@ -15,7 +15,14 @@ class StreamEdit extends React.Component {
 
   render() {
     if (!this.props.stream) {
-      return <div>Loading...</div>;
+      return (
+        <div>
+          <i
+            className="notched circle loading icon"
+            style={{ color: "red" }}
+          ></i>
+        </div>
+      );
     }
 
     return (

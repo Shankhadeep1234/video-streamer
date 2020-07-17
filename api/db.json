@@ -12,7 +12,7 @@
     },
     {
       "title": "PUBG gamming",
-      "description": "A stream channel for PUBG gamming",
+      "description": "A stream channel 4 PUBG",
       "userId": "106196464934461756075",
       "id": 3
     },
@@ -23,7 +23,7 @@
       "id": 4
     },
     {
-      "title": "PhotoGraphy",
+      "title": "Photography",
       "description": "A stream about several photography tuts",
       "userId": "106196464934461756075",
       "id": 5
@@ -33,6 +33,18 @@
       "description": "A channel for travel vlog",
       "userId": "106196464934461756075",
       "id": 6
+    },
+    {
+      "title": "Reactjs",
+      "description": "A channel for Reactjs",
+      "userId": "106196464934461756075",
+      "id": 7
+    },
+    {
+      "title": "Tanmayee",
+      "description": "Yesss!! I have an idea",
+      "userId": "106196464934461756075",
+      "id": 8
     }
   ]
 }

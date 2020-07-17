@@ -64,6 +64,8 @@ export const editStream = (id, formValues) => {
       type: EDIT_STREAM,
       payload: response.data,
     });
+    //do some programmatic navigation to send the user to the root route
+    history.push("/");
   };
 };
 
