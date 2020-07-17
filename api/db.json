@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is an awesome stream",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "Here is another stream",
+      "id": 2
+    },
+    {
+      "title": "PUBG gamming",
+      "description": "A stream channel for PUBG gamming",
+      "userId": "106196464934461756075",
+      "id": 3
+    },
+    {
+      "title": "Let's code",
+      "description": "A coding channel ffor code learner",
+      "userId": "106196464934461756075",
+      "id": 4
+    },
+    {
+      "title": "PhotoGraphy",
+      "description": "A stream about several photography tuts",
+      "userId": "106196464934461756075",
+      "id": 5
+    },
+    {
+      "title": "Let's Go",
+      "description": "A channel for travel vlog",
+      "userId": "106196464934461756075",
+      "id": 6
+    }
+  ]
+}
