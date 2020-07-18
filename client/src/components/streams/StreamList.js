@@ -19,7 +19,12 @@ export class StreamList extends Component {
           >
             Edit
           </Link>
-          <button className="ui tiny red button">Delete</button>
+          <Link
+            to={`/streams/delete/${stream.id}`}
+            className="ui tiny red button"
+          >
+            Delete
+          </Link>
         </div>
       );
     }
